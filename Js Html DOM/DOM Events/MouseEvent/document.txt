@@ -1,0 +1,11 @@
+ // MouseEvent : without - <html>, <head>, <meta>, <title>, <br>, <style>,   
+                <script>, <iframe>, <param>, <base>, <b/>
+
+    // 1. onclick
+    // 2. ondblclick
+    // 3. onmousedown
+    // 4. onmouseup
+    // 5. onmouseenter
+    // 6. onmouseleave
+    // 7. onmousemove
+    // 8. onmouseover

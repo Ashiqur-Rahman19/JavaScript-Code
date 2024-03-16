@@ -1,0 +1,14 @@
+// ES6 Features
+
+// 1. ES6 Syntax
+	1. ES6 variables => var, let, const (scope, redeclaration, value assigning)
+	2. Temple literals
+	3. Hoisting and strict modes
+	4. Default and Rest parameter
+	5. Spread operator
+	6. for...of
+
+// 2. Arrow functions
+// 3. Destructuring
+	1. Array and Object destructuring
+	

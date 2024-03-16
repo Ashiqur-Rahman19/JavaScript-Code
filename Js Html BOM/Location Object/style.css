@@ -1,0 +1,12 @@
+#myButton{
+    background-color: orangered;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+
+
+}

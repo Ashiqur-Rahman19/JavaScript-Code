@@ -1,0 +1,5 @@
+// Error Handling => try, catch, finally, thow
+
+// try...catch handle run time errors
+// Errors object
+// The finally statement => execute code

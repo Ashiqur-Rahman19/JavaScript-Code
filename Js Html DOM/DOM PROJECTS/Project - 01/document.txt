@@ -1,0 +1,6 @@
+
+
+
+
+// Change the background color by generating rgb color 
+   by clicking a button.

@@ -1,0 +1,11 @@
+div{
+    width: 250px;
+    height: 200px;
+    text-align: center;
+    background-color: orangered;
+    padding: 0 20px;
+}
+
+div .btn{
+    margin: 7px;
+}

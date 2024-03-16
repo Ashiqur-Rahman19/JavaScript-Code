@@ -1,0 +1,7 @@
+// FocusEvent Object : without - <br>, <head>, <title>, <html>, <iframe>, <meta>, <param>, <script>, <style>, <base>, <bdo>
+
+
+// 1. onblur
+// 2. onfocus
+// 3. onfocusin
+// 4. onfocusout

@@ -1,0 +1,9 @@
+
+
+
+
+// <input> - text, number, password, email, color, radio, checkbox, searchbox, search, time, date, datetime, week, month, url, tel, file etc;
+
+// <select>
+
+// <textaria>

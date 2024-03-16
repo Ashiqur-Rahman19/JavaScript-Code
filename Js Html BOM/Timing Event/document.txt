@@ -1,0 +1,4 @@
+// Timing Events Method
+
+// 1. setTimeOut()
+// 2. setInterval()
